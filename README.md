@@ -1,4 +1,4 @@
-# dristicg-
+# Dristi Gupta
 
 # 💫 About Me:
 👋 About Me<br><br>Hi, I’m Dristi Gupta, a passionate and dedicated learner with a strong interest in software development and modern technologies. I enjoy building projects, understanding how systems work end-to-end, and continuously improving my technical skills.<br><br>I believe in writing clean, maintainable code and learning through hands-on practice. I’m always open to exploring new tools, collaborating on projects, and growing as a developer.<br><br>🎓 Currently Learning<br><br>☁️ Cloud Computing<br><br>☕ Advanced Java<br><br>🚀 DevOps<br><br>💻 Tech Interests<br><br>Software Development<br><br>Backend Systems<br><br>Automation & CI/CD<br><br>Scalable Applications<br><br>✨ Fun Fact<br><br>I can be the most boring yet funny person at the same time 😄<br><br>📫 Connect With Me<br><br>Feel free to explore my repositories and connect with me here on GitHub!
